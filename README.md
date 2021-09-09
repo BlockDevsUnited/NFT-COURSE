@@ -53,6 +53,8 @@ Here is the course outline, week by week.
 * Verify Contract on etherscan
 
 ### Week 2 - NFT metadata and marketplace integration
+* Follow [This Tutorial](https://github.com/BlockDevsUnited/NFT-COURSE/blob/main/Week2_Metadata_and_Marketplace.md)
+* A recording of our workshop is also available, in case you find it helpful https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing
 
 #### Requirements
 * Create offchain metadata for your NFT (e.g. images, text, stats)
