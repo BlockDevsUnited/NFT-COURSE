@@ -38,6 +38,9 @@ add the image, name, description, external_url
 * call the "Create" function, with your metadata link as a parameter
 * you can try minting an NFT on this contract instead of your own for practice.  
 
+* If you haven't created your own smart contract, you can use ours to practice: 
+* https://rinkeby.etherscan.io/address/0x43b5e86b029bb08e46a895c2f89227130194c4e7#writeContract
+
 
 ### View NFT on Opensea
 
