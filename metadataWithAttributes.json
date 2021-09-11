@@ -1,0 +1,47 @@
+{
+  "description": "Babe Ruth testnet baseball card",
+  "external_url": "https://pixels.com/featured/babe-ruth-baseball-card-1933-jon-neidert.html",
+  "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/babe-ruth-baseball-card-1933-jon-neidert.jpg",
+  "name": "Babe Ruth",
+  "attributes": [
+    {
+      "trait_type": "base",
+      "value": "jellyfish"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "joy"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pleased"
+    },
+    {
+      "trait_type": "level",
+      "value": 2
+    },
+    {
+      "trait_type": "stamina",
+      "value": 2.3
+    },
+    {
+      "trait_type": "personality",
+      "value": "sleepy"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "aqua_power",
+      "value": 10
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "stamina_increase",
+      "value": 5
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ]
+}
