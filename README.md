@@ -29,7 +29,7 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 ### Rules
 
 * Anyone can join
-* Sign up Here https://docs.google.com/spreadsheets/d/1cwcayUhDHuin0dvpQZu8IUMXeVr6yqZXGTGol4_9CdU/edit?usp=sharing
+* Sign ups are closed! If you want to take the course, the next NFT course schedule will be announced soon!
 
 #### Getting the Certificate
 * Must complete course work to progress to next week
