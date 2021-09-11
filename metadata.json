@@ -2,5 +2,6 @@
   "description": "Cute Cat Image",
   "external_url": "https://pixels.com/featured/babe-ruth-baseball-card-1933-jon-neidert.html",
   "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg",
-  "name": "Cat"
+  "name": "Cat",
+  "hitpoints: "12389"
 }
