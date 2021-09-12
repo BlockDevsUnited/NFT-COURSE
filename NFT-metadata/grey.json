@@ -1,0 +1,15 @@
+{
+  "name": "Grey Stone",
+  "description": "Grey stone found at the beach",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/grey.jpg",
+  "attributes": [
+      {
+      "trait_type": "Color", 
+      "value": "Grey"
+    }, 
+    {
+      "trait_type": "Value", 
+      "value": 7 
+    }
+      ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Light marble Stone",
+  "description": "Light marble stone found at the beach",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/light-marble.jpg",
+  "attributes": [
+      {
+      "trait_type": "Color", 
+      "value": "Light marble"
+    }, 
+    {
+      "trait_type": "Value", 
+      "value": 7 
+    }
+      ]
+}
