@@ -1,0 +1,31 @@
+{
+  "dna": "04021",
+  "name": "#10",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "https://hashlips/nft/10.png",
+  "edition": 10,
+  "date": 1631731517149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "skinm5"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "male1"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "facialm3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "hairm2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
