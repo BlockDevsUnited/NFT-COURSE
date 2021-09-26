@@ -79,3 +79,7 @@ During week 4 you must deploy a real life NFT project, as an individual or a gro
 * The base smart contract code from weeks 1 and 2 can be used for your project, but novel smart contract code is encouraged.
 * NFT metadata has to be unique. 
 * Either on existing marketplace or your own app
+
+#### links
+
+* matic.opensea.io
