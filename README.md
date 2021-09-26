@@ -74,4 +74,8 @@ During week 4 you must deploy a real life NFT project, as an individual or a gro
 
 #### Requirements
 * NFT up on live marketplace
+* Can be on any live EVM compatible chain, (xDai, polygon, Fantom, Mainnet etc)
+* You are allowed to collaborate on projects
+* The base smart contract code from weeks 1 and 2 can be used for your project, but novel smart contract code is encouraged.
+* NFT metadata has to be unique. 
 * Either on existing marketplace or your own app
