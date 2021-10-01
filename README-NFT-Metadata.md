@@ -1,9 +1,10 @@
-# How to create and post NFT metadata
+# How to create and post NFT metadata for ERC 721 contract
 
 ## Purpose
 These are our notes on how we set up the metadata for our course projects. 
-We assume that there is already a deployed contract and we know its <contract_address>.
+We assume that there is already a deployed contract that is ERC 721 and we know its <contract_address>.
 
+Notes on metadata for ERC 1155 are in a separate [README-NFT-Metadata-ERC1155.md](README-NFT-Metadata-ERC1155.md).
 
 ## Set up .secrets.json
 A few access keys and accounts will be needed for this tutorial. Create ```.secrets.json``` with your keys (note that there is no '0x' in front of the "ethereumAccount"):
