@@ -42,6 +42,6 @@ contract WisdomHubMulti is ERC1155, Ownable {
 
 }
 ```
-Note that the constructor refers to [sample-stones-erc1155](https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/sample-stones-erc1155/) folder that contains NFT item json and images.
+Note that the constructor refers to [sample-stones-erc1155](https://github.com/BDU-NFT-Course/NFT-Metadata/tree/main/sample-stones-erc1155) folder that contains NFT item json and images.
 
 Note that cotractURI() function refers to the contract metadata.
