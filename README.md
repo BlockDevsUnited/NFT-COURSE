@@ -9,7 +9,6 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 ## Course Information
 
 * A four week course on NFT Development
-* This is our first course
 * Build as we go, Community created
 * Peer to peer learning
 * Join if you have a desire to learn NFT development as a group.
