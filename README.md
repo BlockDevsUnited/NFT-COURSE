@@ -19,6 +19,17 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 * Everyone who completes the course will be granted an “BDU NFT Developer Certificate”
 * Certificates are non-transferable NFT’s
 
+### Schedule
+
+There will be a meetup at the start of each week in our discord channel. [Discord Channel](https://discord.gg/dBypDNd8)
+
+Week 1 Workshop - March 1st 
+Week 2 Workshop - March 8th
+Week 3 Workshop - Match 15th
+Week 4 Workshop - March 22nd
+
+See below for details of each week's content. 
+
 ### Tools
 
 * Solidity
