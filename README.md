@@ -21,14 +21,14 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 
 ### Schedule
 
-There will be a meetup at the start of each week in our [Discord Channel](https://discord.gg/dBypDNd8).
+There will be a workshop at the start of each week in our [Discord Channel](https://discord.gg/dBypDNd8).
 
-* Week 1 Workshop - March 1st 
+* Week 1 Workshop - March 1st
 * Week 2 Workshop - March 8th
 * Week 3 Workshop - Match 15th
 * Week 4 Workshop - March 22nd
 
-See below for details of each week's content. 
+All workshops are at 2:00pm EST. See below for details of each week's content. 
 
 ### Tools
 
