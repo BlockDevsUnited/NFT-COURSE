@@ -21,7 +21,7 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 
 ### Schedule
 
-There will be a meetup at the start of each week in our discord channel. [Discord Channel](https://discord.gg/dBypDNd8)
+There will be a meetup at the start of each week in our [Discord Channel](https://discord.gg/dBypDNd8).
 
 * Week 1 Workshop - March 1st 
 * Week 2 Workshop - March 8th
