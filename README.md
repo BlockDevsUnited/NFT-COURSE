@@ -8,15 +8,18 @@ Sign up here. https://docs.google.com/spreadsheets/d/1cwcayUhDHuin0dvpQZu8IUMXeV
 
 A four week course on NFT Development in which you will learn: 
 
-* Build as we go, Community created
-* Peer to peer learning
-* Join if you have a desire to learn NFT development as a group.
-* The success of this cohort will serve as a benchmark for the next cohorts
-* Open source
-* We will have meetups at the start of each week.
-* Tutorials and guides will be made available on our Github
-* Everyone who completes the course will be granted an “BDU NFT Developer Certificate”
-* Certificates are non-transferable NFT’s
+* How to write NFT Smart contracts in Solidity (ERC721 and ERC1155 standards)
+* How to deploy NFT Smart contracts
+* How to create and store NFT Metadata off chain. (image, attributes, stats and so on)
+* How to integrate your NFT smart contracts in marketplaces such as Opensea
+* How to launch a live NFT Project. 
+
+Additional Information: 
+
+* This Course is community created, and we build as we go
+* Learning is Peer To Peer
+* This course is 100% Open source
+* Everyone who completes the course will get a BDU "NFT Developer" Certificate
 
 ### Schedule
 
