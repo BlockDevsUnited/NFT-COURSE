@@ -1,6 +1,6 @@
 # NFT-COURSE
 
-Welcome to the Block Devs United NFT course! Join our [Discord Channel](https://discord.gg/dBypDNd8) to talk to people in this course.
+Welcome to the Block Devs United NFT course! Join our [Discord Channel](https://discord.gg/Bkj7rVCa2W) to talk to people in this course.
 
 In the discord channel you will find help and support for passing the requirements each week!
 
