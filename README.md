@@ -11,7 +11,7 @@ A four week course on NFT Development in which you will learn:
 * How to write NFT Smart contracts in Solidity (ERC721 and ERC1155 standards)
 * How to deploy NFT Smart contracts
 * How to create and store NFT Metadata off chain. (image, attributes, stats and so on)
-* How to integrate your NFT smart contracts in marketplaces such as Opensea
+* How to integrate your NFT and post them in marketplaces such as Opensea
 * How to launch a live NFT Project. 
 
 Additional Information: 
