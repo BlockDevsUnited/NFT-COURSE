@@ -2,13 +2,12 @@
 
 Welcome to the Block Devs United NFT course! Join our [Discord Channel](https://discord.gg/Bkj7rVCa2W) to talk to people in this course.
 
-In the discord channel you will find help and support for passing the requirements each week!
-
-If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1cwcayUhDHuin0dvpQZu8IUMXeVr6yqZXGTGol4_9CdU/edit?usp=sharing
+Sign up here. https://docs.google.com/spreadsheets/d/1cwcayUhDHuin0dvpQZu8IUMXeVr6yqZXGTGol4_9CdU/edit?usp=sharing
 
 ## Course Information
 
-* A four week course on NFT Development
+A four week course on NFT Development in which you will learn: 
+
 * Build as we go, Community created
 * Peer to peer learning
 * Join if you have a desire to learn NFT development as a group.
