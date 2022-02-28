@@ -19,7 +19,7 @@ Additional Information:
 * This Course is community created, and we build as we go
 * Learning is Peer To Peer
 * This course is 100% Open source
-* Everyone who completes the course will get a BDU "NFT Developer" Certificate
+* Everyone who completes the course will get a BDU "NFT Developer" Certificate, which is a non-transferrable NFT.
 
 ### Schedule
 
