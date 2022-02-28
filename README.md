@@ -21,7 +21,7 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 
 ### Schedule
 
-There will be a workshop at the start of each week in our [Discord Channel](https://discord.gg/dBypDNd8).
+There will be a workshop at the start of each week in our [Discord Channel](https://discord.gg/Bkj7rVCa2W).
 
 * Week 1 Workshop - March 1st
 * Week 2 Workshop - March 8th
