@@ -58,7 +58,7 @@ Here is the course outline, week by week.
 #### Tutorials
 
 * Follow this Tutorial - https://github.com/BlockDevsUnited/NFT-Tutorial
-* Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/280474528/
+* Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/284025967/
 
 #### Requirements
 * Demonstrate ability to deploy ERC721 and ERC1155 smart contracts on Ethereum testnet
@@ -66,7 +66,7 @@ Here is the course outline, week by week.
 
 ### Week 2 - NFT metadata and marketplace integration
 * Follow [This Tutorial](https://github.com/BlockDevsUnited/NFT-COURSE/blob/main/Week2_Metadata_and_Marketplace.md)
-* A recording of our workshop is also available, in case you find it helpful https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing
+* A recording of our Week 2 workshop (September 2021) is also available: https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing
 
 #### Requirements
 * Create offchain metadata for your NFT (e.g. images, text, stats)
