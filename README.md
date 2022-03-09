@@ -26,9 +26,9 @@ Additional Information:
 There will be a workshop at the start of each week in our [Discord Channel](https://discord.gg/Bkj7rVCa2W).
 
 * Week 1 Workshop - March 1st
-* Week 2 Workshop - March 8th
-* Week 3 Workshop - Match 15th
-* Week 4 Workshop - March 22nd
+* Week 2 Workshop - March 15th
+* Week 3 Workshop - Match 22th
+* Week 4 Workshop - March 29nd
 
 All workshops are at 2:00pm EST. See below for details of each week's content. 
 
@@ -59,6 +59,7 @@ Here is the course outline, week by week.
 
 * Follow this Tutorial - https://github.com/BlockDevsUnited/NFT-Tutorial
 * Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/284025967/
+* We also have a recording of [Week 1 Totorial](https://www.loom.com/share/8543149eeb2b49aa996f8568fd584126)
 
 #### Requirements
 * Demonstrate ability to deploy ERC721 and ERC1155 smart contracts on Ethereum testnet
