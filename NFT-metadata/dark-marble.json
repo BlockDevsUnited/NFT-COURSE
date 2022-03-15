@@ -2,6 +2,7 @@
   "name": "Dark marble Stone",
   "description": "Dark marble stone found at the beach",
   "image": "https://raw.githubusercontent.com/BlockDevsUnited/NFT-COURSE/main/NFT-metadata/dark-marble.jpg",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/Qmf9narSu5GJZeywkqdethTsaJmDvKq8xTtBYmSW6Hwjzy",
   "attributes": [
       {
       "trait_type": "Color", 
