@@ -37,6 +37,8 @@ Set up hardhat.config.js
  */
 
 require('@nomiclabs/hardhat-ethers');
+require("@nomiclabs/hardhat-etherscan");
+
 const { alchemyAPIKey, ethereumAccount, etherscanAPIKey} = require('./.secrets.json');
 
 module.exports = {
