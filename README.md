@@ -67,7 +67,7 @@ Here is the course outline, week by week.
 
 ### Week 2 - NFT metadata and marketplace integration
 * Follow [This Tutorial](https://github.com/BlockDevsUnited/NFT-COURSE/blob/main/Week2_Metadata_and_Marketplace.md)
-* A recording of our Week 2 workshop (September 2021) is also available: https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing
+* A recording of our [Week 2 workshop](https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing) (September 2021)
 
 #### Requirements
 * Create offchain metadata for your NFT (e.g. images, text, stats)
