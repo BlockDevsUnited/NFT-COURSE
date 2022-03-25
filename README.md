@@ -58,8 +58,8 @@ Here is the course outline, week by week.
 #### Tutorials
 
 * Follow this Tutorial - https://github.com/BlockDevsUnited/NFT-Tutorial
-* Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/284025967/
-* We also have a recording of [Week 1 Totorial](https://www.loom.com/share/8543149eeb2b49aa996f8568fd584126)
+* Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/284025967/ (September 2021)
+* We also have a recording of [Week 1 Totorial](https://www.loom.com/share/8543149eeb2b49aa996f8568fd584126) (March 2022)
 
 #### Requirements
 * Demonstrate ability to deploy ERC721 and ERC1155 smart contracts on Ethereum testnet
@@ -77,6 +77,7 @@ Here is the course outline, week by week.
 ### Week 3 - Generative Art
 
 Collaborative week. We will develop code together, to create generative art NFT’s.
+* [A recoding of Week 3 meetup](https://drive.google.com/drive/folders/11K1GyOmUtp50nHJUdiN-qEdhQCneVYcV) (March 2022)
 
 #### Requirements
 * Succeed as a group in creating a generative art NFT
